@@ -5,6 +5,7 @@ INSERT INTO administra(proprietario,ano )
 	VALUES(100000001, 2015);
 --
 INSERT INTO administra(proprietario,ano )
+	VALUES(100000001, 2005);
 --
 INSERT INTO proprietario(nif, nome, genero, piso ,letra)
 	VALUES(100000002,'abcd','M',4,'A');
